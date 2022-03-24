@@ -15,7 +15,7 @@
 2. Subindo esses algorĩtimos para o github - Implementando pelo terminal o Fluxo do git (Git flow) - (mkdir, git status, git add, git commit e git push)
 3. Forkando e clonando o repositõrio da aula e resolvendo os exercícios dele
 4.  Atualizando o repositório seu repositório forkado
-5.  Extra! Abrir uma Pull request para para o repositório original
+5.  Extra! Abrir uma Pull request para para o repositório original (https://github.com/grupy-sp/encontros/wiki/Como-sincronizar-o-seu-Fork-com-o-repo-principal)
 
 ## Atividade para casa :rocket:
  Seu objetivo teórico será escolher um tema dentre os temas extras de conceitos básicos, pesquisar e fazer um arquivo de README.md explicando. Já seu objetivo prático é mandar todo esse conteúdo novo para o Github, utilizando do fluxo de git que aprendemos em sala para isso!
