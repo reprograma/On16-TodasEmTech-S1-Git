@@ -9,6 +9,8 @@
 5. Configurando a máquina e criando nossa conta  
 6. Fluxos do git e aprendendo comandos - Fork, clone, criando repositõrio e mais  
 
+### [Slides do conteúdo](https://docs.google.com/presentation/d/1fA7hVbZUbIbbhfi5xhPFIwE5PVaN1NWizv8E5QoBJ-0/edit?usp=sharing) :sparkles:
+
 ### Atividades em sala
 
 1. Criando Algorítimos 
