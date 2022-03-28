@@ -24,22 +24,20 @@
  
 *Passo a passo
 1. Escolha um dos temas disponíveis que estar descrito no classroom e nesse conteúdo mais abaixo 
-2.  Crie um repositório na sua conta do GitHub (Não inicialize criando um arquivo README, queremos um repositório vazio)
+2.  Crie um repositório na sua conta do GitHub (caso queira pode criar com o readme)
 3. Copie o endereço do repositório através do botão Clone or download na página de seu projeto;
-4. No seu terminal navegue ao local que deseja e crie uma pasta (ou apenas crie a pasta mas é legal exercitar os comandooos)
+4. No seu terminal navegue ao local que deseja e copie o link do repositorio que vc criou e clone para o sei pc 
 5. Dentro dessa pasta abra o terminal(caso não já o tenha feito) e inicie um novo repositório do git
 6. No seu Vscode abra essa pasta
-7. Crie pelo terminal uma nova branch com seuNome/temaEscolhido
-8. Dentro da branch que acabamos de criar, crie um arquivo de README.md.
+8. caso não tenha feito, crie um arquivo de README.md.
 9. Voce deverá fazer uma pesquisa sobre o tema escolhido na etapa um e dentro desse arquivo escreverá sobre ele. (Markdown tem uma forma espeĩfica de escrita para "decorar" seu texto, mas vou disponibilizar alguns links para direcionar mais rapidamente vcs ao conteúdo.)
 10. Após escrever sobre o tema, verifique se seus arquivos estão sendo monitorados pelo git (git status)
 11. Adicione esse arquivo para o monitoramento do git (git add)
 12. Verifique se os arquivos foram realmente adicionados (git status)
 13. Faça um commit explicando o que fez de forma sucinta (git commit)
-14. após o comite realizado de um push nas suas atualizações para o github (git push)
-15. Abrir um Pull request da branch com seu nome para a branch Main
-16. Copiar o link dessa Pull request e colar na devolução da tarefa no classroom essa semana
-17. após a aprovação(vai ser depois da minha correção, na semana seguinte), podem dar o merge! 
+14. após o comite realizado de um push nas suas atualizações para o github (git push) 
+16. Copiar o link do repositório e colar na devolução da tarefa no classroom essa semana
+ 
 
 ## Links de Referências :sparkles:
 
